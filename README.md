@@ -1,7 +1,7 @@
 [![Build and Test](https://github.com/devplaybooks/.baseline/actions/workflows/CI.yml/badge.svg)](https://github.com/devplaybooks/.baseline/actions/workflows/CI.yml)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
--
+
 # Base Template for Dev Playbooks
 
 Includes:
